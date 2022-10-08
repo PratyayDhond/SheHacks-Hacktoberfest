@@ -1,6 +1,6 @@
 **What is Low-code?**
 
-Low-code is a software development approach that requires little to no coding to build applications and processes.
+Low code is a software development approach that requires little to no coding to build applications and processes.
 
 Instead of using complex programming languages, you can employ visual interfaces with basic logic and drag-and-drop capabilities in a low code development platform.
 
